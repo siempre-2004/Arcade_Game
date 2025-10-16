@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - guard
+  - RedObject
+  - GreenObject
+  - BlueObject
+  - Spawner
+  - Gaurd
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: New Layer 5
+    uniqueID: 2975713579
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Wall
+    uniqueID: 3068402025
+    locked: 0
+  - name: Home
+    uniqueID: 3426345051
+    locked: 0
+  - name: Player
+    uniqueID: 2453232441
+    locked: 0
+  - name: Lamp
+    uniqueID: 1695347009
+    locked: 0

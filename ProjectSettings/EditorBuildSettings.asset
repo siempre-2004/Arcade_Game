@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Sireesha.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 62aa7e17d42b9e14f878375c4d4935a6
+  - enabled: 1
+    path: Assets/Scenes/Game Scene 2.0.unity
+    guid: d63195c7fb0eeb846b53abf1ab24e0b6
+  - enabled: 0
+    path: Assets/Scenes/GameScene.unity
+    guid: ac96cc0b20ab6fa4fa8e03fb1a3bee82
+  - enabled: 1
+    path: Assets/Scenes/EndGame_LoseState.unity
+    guid: c0d172778a302c245b21b8d117c1d568
+  - enabled: 0
+    path: Assets/Scenes/win.unity
+    guid: 8da80951e0869a0478f441186a6ea754
+  - enabled: 1
+    path: Assets/Scenes/EndGame_WinState.unity
+    guid: c37d321cfd5a6c34ca05c43fe49801a2
+  - enabled: 0
+    path: Assets/Scenes/nothing.unity
+    guid: 6573f021d562248489df079a9f0951fa
+  - enabled: 1
+    path: Assets/Scenes/StorageFacility.unity
+    guid: 8de61f7215c71a441a739905484a54e5
+  - enabled: 0
+    path: Assets/Scenes/StorageDump.unity
+    guid: 0e33c8a1d02f759408ed0ba966b57134
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: 73f4766b42d12814d944f5d49a57e2b2
+  m_configObjects: {}
